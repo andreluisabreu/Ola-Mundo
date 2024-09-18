@@ -1,2 +1,4 @@
-# Ola M1undo
- Primeiro Repositorio do Curso de Git e GitHub
+# Olá, Mundo.
+ Primeiro Repositório do Curso de Git e GitHub.
+
+ Repositório criado durante uma aula au vivo!.
